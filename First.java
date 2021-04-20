@@ -1,3 +1,5 @@
+//Author: Jameson Pierre-Louis
+//This code prints different pyramids made of stars
 
 public class First {
 
