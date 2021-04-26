@@ -1,6 +1,6 @@
 //Author: Jameson Pierre-Louis
 //This Program produces a 10x10 2D array and returns the largest value along with it's position
-package SecondAssignment;
+package com.ss.apr.jb.two;
 import java.util.Random;
 
 public class PartOne {

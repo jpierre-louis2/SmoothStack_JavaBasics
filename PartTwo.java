@@ -1,6 +1,6 @@
 //Author: Jameson Pierre-Louis
 //This Program adds all number values passed through the commandline
-package SecondAssignment;
+package com.ss.apr.jb.two;
 
 public class PartTwo {
 
