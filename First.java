@@ -1,5 +1,6 @@
 //Author: Jameson Pierre-Louis
-//This code prints different pyramids made of stars
+//This Program prints out different star pyramids
+package com.ss.apr.jb.one;
 
 public class First {
 
