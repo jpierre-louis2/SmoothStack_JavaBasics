@@ -15,7 +15,6 @@ public class ShapeTest {
 		Triangle t = new Triangle();
 		Scanner scan = new Scanner(System.in);
 		int input = 0;
-		boolean valid = true;
 		
 		System.out.println("Menu");
 		System.out.println("1. Calculate Area for a Rectangle");
@@ -43,6 +42,7 @@ public class ShapeTest {
 				t.display(t.calculateArea());
 				break;
 		}
+		scan.close();
 		System.out.println("Goodbye!");
 	}
 	
