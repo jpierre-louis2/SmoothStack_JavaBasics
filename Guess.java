@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class Guess {
 
+	//This function checks for an integer input
 	public static int inputValue() {
 		
 		Scanner scan = new Scanner(System.in);
